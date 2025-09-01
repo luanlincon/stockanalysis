@@ -60,10 +60,10 @@ Este projeto foi desenhado para ser flexível. Para analisar seu próprio portf�
 
 
 **Performance Normalizada das Ações**
-![Performance Normalizada](C:\Users\luanb\OneDrive\My Desktop\NewAmbient\stock_analysis\images\perfomance.png)
+![Performance Normalizada](https://github.com/luanlincon/stockanalysis/blob/master/images/perfomance.png)
 
 **Correlação entre ações**
-![Correlação](C:\Users\luanb\OneDrive\My Desktop\NewAmbient\stock_analysis\images\correlação.png)
+![Correlação](https://github.com/luanlincon/stockanalysis/blob/master/images/correla%C3%A7%C3%A3o.png)
 
 ---
 
